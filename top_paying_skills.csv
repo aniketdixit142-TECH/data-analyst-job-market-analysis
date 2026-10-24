@@ -1,0 +1,11 @@
+skill,count,median
+pytorch,54,134775.0
+pyspark,57,127500.0
+docker,56,126025.0
+tensorflow,60,125000.0
+airflow,57,124500.0
+pl/sql,32,122470.5
+jupyter,39,119257.0
+hadoop,128,118265.0
+spark,212,117500.0
+pandas,121,116700.0
